@@ -27,6 +27,6 @@
 
 ## 🔥 Projetos Destacados  
 
-1. **[B77 Auto Parts - Peças automotivas](https://github.com/Luiz-9858/b77-autoparts)** - Estou desenvolvendo um site de peças automotivas leves e pesados onde eu trabalho, o objetivo acima de tudo é aprender desenvolvwer um site e, segundo, aumentar as vendas da empresa.  
+1. **[B77 Auto Parts - Peças automotivas](https://github.com/Luiz-9858/b77-autoparts)** - Estou desenvolvendo um site de peças automotivas leves e pesados onde trabalho atualmente, um dos objetivos acima de tudo é aprender a desenvolver um site do zero ao avançado. 
 2. **[Catálogos de veículos leves e pesados.](https://github.com/Luiz-9858/Cata-logo-simples-de-produtos-automotivos)** - Um catálogo simples de peças automotivas.
 3. **[To-Do-List](https://github.com/Luiz-9858/To-Do-List)** - Uma lista simples de tarefas do dia a dia.
