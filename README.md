@@ -16,7 +16,7 @@
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-9858&theme=radical&hide_border=true) 
 
-## 🛠️ Tecnologias  
+## 🛠️ Technologies 
 
 **Linguagens:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)  
 
-## 🔥 Projetos Destacados  
+## 🔥 Featured Projects
 
 ### [B77 Auto Parts](https://github.com/Luiz-9858/b77-autoparts)  
 [![Deploy no Netlify](https://img.shields.io/badge/Deploy%20-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/projects/catalogodeprodutoautomotivos/overview)   
