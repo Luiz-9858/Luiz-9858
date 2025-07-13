@@ -35,5 +35,5 @@
 ## 📬 Let's Connect  
 
 - ✉️ **Email**: [luizfernandodev16@gmail.com](mailto:luizfernandodev16@gmail.com)  
-- 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/luiz-fernando-9747922b7/](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
 - 📱 **Telegram**: [@seuusuario](https://t.me/seuusuario)  
