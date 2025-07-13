@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luiz-fernando-9747922b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Luiz-9858)
 [![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x)](https://x.com/LuizFernan8405)
+[![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/Luiz-9858)
 
 
 ## 📊 GitHub Stats 
