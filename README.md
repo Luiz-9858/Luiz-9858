@@ -4,7 +4,9 @@
 🎓**Formação:** Unisagrado: Análise e Desenvolvimento de Sistemas
 
 🔗**Links:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](kedin.com/in/luiz-fernando-9747922b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luiz-fernando-9747922b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Luiz-9858)
+[![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x)](https://x.com/LuizFernan8405)
 
 
 ## 📊 GitHub Stats 
@@ -28,12 +30,18 @@
 
 ## 🔥 Projetos Destacados  
 
-1. **[B77 Auto Parts - Peças automotivas](https://github.com/Luiz-9858/b77-autoparts)** - Estou desenvolvendo um site de peças automotivas leves e pesados onde trabalho atualmente, um dos objetivos acima de tudo é aprender a desenvolver um site do zero ao avançado. 
-2. **[Catálogos de veículos leves e pesados.](https://github.com/Luiz-9858/Cata-logo-simples-de-produtos-automotivos)** - Um catálogo simples de peças automotivas.
-3. **[To-Do-List](https://github.com/Luiz-9858/To-Do-List)** - Uma lista simples de tarefas do dia a dia.
+### [B77 Auto Parts](https://github.com/Luiz-9858/b77-autoparts)  
+[![Deploy no Netlify](https://img.shields.io/badge/Deploy%20-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/projects/catalogodeprodutoautomotivos/overview)   
+[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat)](https://github.com/Luiz-9858/b77-autoparts)  
+> Site de peças automotivas desenvolvido com [React](https://reactjs.org/) e [Node.js](https://nodejs.org/).
 
+ [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00FF00?style=flat)](mailto:luizfernandodev16@gmail.com)
+  
 ## 📬 Let's Connect  
 
 - ✉️ **Email**: [luizfernandodev16@gmail.com](mailto:luizfernandodev16@gmail.com)  
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/luiz-fernando-9747922b7/](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
-- 📱 **Telegram**: [@seuusuario](https://t.me/seuusuario)  
+- 📱 **Telegram**: [@seuusuario](https://t.me/seuusuario)
+- 🐦 **X Twitter**: [https://x.com/LuizFernan8405](https://x.com/LuizFernan8405)
+
+
