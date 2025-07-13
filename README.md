@@ -5,7 +5,7 @@
 
 🔗**Links:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](kedin.com/in/luiz-fernando-9747922b7/)
-[![Instagram](https://x.com/LuizFernan8405/)
+[![X](https://x.com/LuizFernan8405/)
 
 ## 📊 GitHub Stats 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luiz-9858&show_icons=true&theme=radical&hide_border=true) 
