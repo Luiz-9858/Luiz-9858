@@ -5,7 +5,7 @@
 
 🔗**Links:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](kedin.com/in/luiz-fernando-9747922b7/)
-[![X](https://x.com/LuizFernan8405)
+
 
 
 ## 📊 GitHub Stats 
