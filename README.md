@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Luiz-9858)
 [![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x)](https://x.com/LuizFernan8405)
 [![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/Luiz-9858)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/LuizFernando9858)
 
 
 ## 📊 GitHub Stats 
