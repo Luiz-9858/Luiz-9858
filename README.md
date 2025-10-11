@@ -1,14 +1,48 @@
-# 👋 Olá, meu nome é Luiz Fernando
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://luiz-silva-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-9747922b7/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luiz-9858)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfernandodev16@gmail.com)
 
-📍**Localização:** Bauru, SP
-🎓**Formação:** Unisagrado: Análise e Desenvolvimento de Sistemas
+---
 
-🔗**Links:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/luiz-fernando-9747922b7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/Luiz-9858)
-[![X](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x)](https://x.com/LuizFernan8405)
-[![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab)](https://gitlab.com/Luiz-9858)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/LuizFernando9858)
+</div>
+
+## 👨‍💻 Sobre Mim
+Olá! Sou estudante de Análise e Desenvolvimento de Sistemas em Bauru, SP. 
+
+## 🌐 Visite Meu Portfólio
+
+<div align="center">
+  <a href="https://luiz-silva-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_ACESSAR_PORTFÓLIO-FF5722?style=for-the-badge" alt="Portfólio"/>
+  </a>
+</div>
+
+Confira todos os meus projetos, habilidades e formas de contato em um só lugar! 
+- **Status:** 🟡 Em desenvolvimento
+
+---
+
+💼 **Atualmente:**
+- 🔭 Trabalhando no projeto [B77 Auto Parts](link-do-projeto)
+- 🌱 Aprendendo React e Node.js
+- 👯 Buscando colaborar em projetos open source
+
+🎯 **Objetivos 2025:**
+- Conseguir meu primeiro estágio como desenvolvedor
+- Contribuir para projetos open source
+- Criar um portfólio completo com 5 projetos full-stack
+
+📫 **Como me encontrar:**
+- 🌐 [Portfólio](https://luiz-silva-portfolio.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-9747922b7/)
+- 📧 Email: luizfernandodev16@gmail.com
+- 💬 Telegram: [@LuizFernando9858](https://t.me/LuizFernando9858)
+- 🐦 Twitter: [@LuizFernan8405](https://x.com/LuizFernan8405)
+
+---
 
 
 ## 📊 GitHub Stats 
@@ -18,16 +52,23 @@
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-9858&theme=radical&hide_border=true) 
 
-## 🛠️ Technologies 
 
-**Linguagens:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)   
+## 🛠️ Linguagens:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
+## 🚀 Frameworks e Bibliotecas:
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-**Frameworks:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)  
+## 🗄️ Ferramentas:
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## 🔥 Featured Projects
 
@@ -38,11 +79,5 @@
 
  [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-00FF00?style=flat)](mailto:luizfernandodev16@gmail.com)
   
-## 📬 Let's Connect  
-
-- ✉️ **Email**: [luizfernandodev16@gmail.com](mailto:luizfernandodev16@gmail.com)  
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/luiz-fernando-9747922b7/](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
-- 📱 **Telegram**: [@LuizFernando9858](https://t.me/LuizFernando9858)
-- 🐦 **X Twitter**: [https://x.com/LuizFernan8405](https://x.com/LuizFernan8405)
 
 
