@@ -41,7 +41,7 @@
 
 - ✉️ **Email**: [luizfernandodev16@gmail.com](mailto:luizfernandodev16@gmail.com)  
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/luiz-fernando-9747922b7/](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
-- 📱 **Telegram**: [@seuusuario](https://t.me/LuizFernando9858)
+- 📱 **Telegram**: [@LuizFernando9858](https://t.me/LuizFernando9858)
 - 🐦 **X Twitter**: [https://x.com/LuizFernan8405](https://x.com/LuizFernan8405)
 
 
