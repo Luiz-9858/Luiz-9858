@@ -26,7 +26,6 @@
 
 
 **Frameworks:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)  
 
 ## 🔥 Featured Projects
@@ -42,7 +41,7 @@
 
 - ✉️ **Email**: [luizfernandodev16@gmail.com](mailto:luizfernandodev16@gmail.com)  
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/luiz-fernando-9747922b7/](https://www.linkedin.com/in/luiz-fernando-9747922b7/)  
-- 📱 **Telegram**: [@seuusuario](https://t.me/seuusuario)
+- 📱 **Telegram**: [@seuusuario](https://t.me/LuizFernando9858)
 - 🐦 **X Twitter**: [https://x.com/LuizFernan8405](https://x.com/LuizFernan8405)
 
 
