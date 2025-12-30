@@ -37,7 +37,7 @@ Confira todos os meus projetos, habilidades e formas de contato em um só lugar!
 
 📫 **Como me encontrar:**
 - 🌐 [Portfólio](https://luiz-silva-portfolio.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-9747922b7/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-fernando-fullstack)
 - 📧 Email: luizfernandodev16@gmail.com
 - 💬 Telegram: [@LuizFernando9858](https://t.me/LuizFernando9858)
 - 🐦 Twitter: [@LuizFernan8405](https://x.com/LuizFernan8405)
