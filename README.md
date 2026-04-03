@@ -46,9 +46,9 @@ Confira todos os meus projetos, habilidades e formas de contato em um só lugar!
 
 
 ## 📊 GitHub Stats 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Luiz-9858&show_icons=true&theme=radical&hide_border=true) 
+![Estatísticas do GitHub](https://github-readme-stats-6z2r.vercel.app/api?username=Luiz-9858&show_icons=true&theme=radical&hide_border=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-9858&layout=compact&theme=radical&hide_border=true)  
+![Linguagens Mais Usadas](https://github-readme-stats-6z2r.vercel.app/api/top-langs/?username=Luiz-9858&layout=compact&theme=radical&hide_border=true) 
 
 ![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Luiz-9858&theme=radical&hide_border=true) 
 
